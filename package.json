@@ -1,6 +1,6 @@
 {
   "name": "react-scripts-migrate-flow-ts",
-  "version": "3.0.2",
+  "version": "3.0.3",
   "description": "Fork of CRA's react-scripts to support parallel compilation of Flow and Typescript",
   "repository": {
     "type": "git",

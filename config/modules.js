@@ -11,7 +11,7 @@
 const fs = require('fs');
 const path = require('path');
 const paths = require('./paths');
-const chalk = require('react-dev-utils/chalk');
+const chalk = require('react-dev-utils-migrate-flow-ts/chalk');
 
 /**
  * Get the baseUrl of a compilerOptions object.
