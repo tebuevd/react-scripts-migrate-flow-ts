@@ -1,18 +1,17 @@
 {
-  "name": "react-scripts",
+  "name": "react-scripts-migrate-flow-ts",
   "version": "3.0.1",
-  "description": "Configuration and scripts for Create React App.",
+  "description": "Fork of CRA's react-scripts to support parallel compilation of Flow and Typescript",
   "repository": {
     "type": "git",
-    "url": "https://github.com/facebook/create-react-app.git",
-    "directory": "packages/react-scripts"
+    "url": "https://github.com/tebuevd/react-scripts-migrate-flow-ts"
   },
   "license": "MIT",
   "engines": {
     "node": ">=8.10"
   },
   "bugs": {
-    "url": "https://github.com/facebook/create-react-app/issues"
+    "url": "https://github.com/tebuevd/react-scripts-migrate-flow-ts/issues"
   },
   "files": [
     "bin",
